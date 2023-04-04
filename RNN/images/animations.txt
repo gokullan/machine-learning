@@ -1,0 +1,110 @@
+// initial fade-in
+show vw7Zh7kLF-1Z5-S5F4tT-8 fade
+show vw7Zh7kLF-1Z5-S5F4tT-2 fade
+show vw7Zh7kLF-1Z5-S5F4tT-5 fade
+show vw7Zh7kLF-1Z5-S5F4tT-16 fade
+wait 1000
+// show red-1
+show vw7Zh7kLF-1Z5-S5F4tT-17 fade
+wait 1000
+// input-arrows on
+show vw7Zh7kLF-1Z5-S5F4tT-3 fade
+show vw7Zh7kLF-1Z5-S5F4tT-4 fade
+flow vw7Zh7kLF-1Z5-S5F4tT-3
+flow vw7Zh7kLF-1Z5-S5F4tT-4
+wait 1000
+// show green-purple
+show vw7Zh7kLF-1Z5-S5F4tT-12 fade
+show vw7Zh7kLF-1Z5-S5F4tT-10 fade
+//hide red-1
+hide vw7Zh7kLF-1Z5-S5F4tT-17
+// input-arrows off
+flow vw7Zh7kLF-1Z5-S5F4tT-4
+flow vw7Zh7kLF-1Z5-S5F4tT-3
+// arrows to cell on
+show vw7Zh7kLF-1Z5-S5F4tT-11 fade
+show vw7Zh7kLF-1Z5-S5F4tT-9 fade
+flow vw7Zh7kLF-1Z5-S5F4tT-11
+flow vw7Zh7kLF-1Z5-S5F4tT-9
+wait 1000
+// arrows to cell off
+flow vw7Zh7kLF-1Z5-S5F4tT-11
+flow vw7Zh7kLF-1Z5-S5F4tT-9
+// output arrow on
+show vw7Zh7kLF-1Z5-S5F4tT-15 fade
+flow vw7Zh7kLF-1Z5-S5F4tT-15
+wait 1000
+// show output
+show vw7Zh7kLF-1Z5-S5F4tT-14 fade
+wait 1000
+// output arrow off
+flow vw7Zh7kLF-1Z5-S5F4tT-15
+wait 1000
+
+// show red-2
+show vw7Zh7kLF-1Z5-S5F4tT-18 fade
+wait 1500
+// time arrow on
+show vw7Zh7kLF-1Z5-S5F4tT-13 fade
+flow vw7Zh7kLF-1Z5-S5F4tT-13
+// input arrow on
+flow vw7Zh7kLF-1Z5-S5F4tT-3
+wait 1000
+// hide red-2
+hide vw7Zh7kLF-1Z5-S5F4tT-18
+// time arrow off
+flow vw7Zh7kLF-1Z5-S5F4tT-13
+// input arrow off
+flow vw7Zh7kLF-1Z5-S5F4tT-3
+// arrows to cell on
+flow vw7Zh7kLF-1Z5-S5F4tT-11
+flow vw7Zh7kLF-1Z5-S5F4tT-9
+wait 1000
+// arrows to cell off
+flow vw7Zh7kLF-1Z5-S5F4tT-11
+flow vw7Zh7kLF-1Z5-S5F4tT-9
+// output arrow on
+flow vw7Zh7kLF-1Z5-S5F4tT-15
+wait 1000
+// output arrow off
+flow vw7Zh7kLF-1Z5-S5F4tT-15
+wait 1000
+
+// show red-3
+show vw7Zh7kLF-1Z5-S5F4tT-19 fade
+wait 1500
+// time arrow on
+show vw7Zh7kLF-1Z5-S5F4tT-13 fade
+flow vw7Zh7kLF-1Z5-S5F4tT-13
+// input arrow on
+flow vw7Zh7kLF-1Z5-S5F4tT-3
+wait 1000
+// hide red-3
+hide vw7Zh7kLF-1Z5-S5F4tT-19
+// time arrow off
+flow vw7Zh7kLF-1Z5-S5F4tT-13
+// input arrow off
+flow vw7Zh7kLF-1Z5-S5F4tT-3
+// arrows to cell on
+flow vw7Zh7kLF-1Z5-S5F4tT-11
+flow vw7Zh7kLF-1Z5-S5F4tT-9
+wait 1000
+// arrows to cell off
+flow vw7Zh7kLF-1Z5-S5F4tT-11
+flow vw7Zh7kLF-1Z5-S5F4tT-9
+// output arrow on
+flow vw7Zh7kLF-1Z5-S5F4tT-15
+wait 1000
+// output arrow off
+flow vw7Zh7kLF-1Z5-S5F4tT-15
+
+// final output arrow on
+show hkOxSQr3yMlM0txb1p_M-1 fade
+flow hkOxSQr3yMlM0txb1p_M-1
+wait 1000
+// final output
+show vw7Zh7kLF-1Z5-S5F4tT-6 fade
+wait 1000
+// final output arrow off
+flow hkOxSQr3yMlM0txb1p_M-1
+wait 1000

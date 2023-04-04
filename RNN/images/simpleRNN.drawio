@@ -1,0 +1,80 @@
+<mxfile host="Electron" modified="2023-04-02T19:42:44.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="fZ5G9Xwbsv2bewJtMIEC" version="21.1.2" type="device">
+  <diagram name="Page-1" id="7tIwbl5dzMov-gClIj85">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <UserObject label="" animation="// initial fade-in&#xa;show vw7Zh7kLF-1Z5-S5F4tT-8 fade&#xa;show vw7Zh7kLF-1Z5-S5F4tT-2 fade&#xa;show vw7Zh7kLF-1Z5-S5F4tT-5 fade&#xa;show vw7Zh7kLF-1Z5-S5F4tT-16 fade&#xa;wait 1000&#xa;// show red-1&#xa;show vw7Zh7kLF-1Z5-S5F4tT-17 fade&#xa;wait 1000&#xa;// input-arrows on&#xa;show vw7Zh7kLF-1Z5-S5F4tT-3 fade&#xa;show vw7Zh7kLF-1Z5-S5F4tT-4 fade&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-3&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-4&#xa;wait 1000&#xa;// show green-purple&#xa;show vw7Zh7kLF-1Z5-S5F4tT-12 fade&#xa;show vw7Zh7kLF-1Z5-S5F4tT-10 fade&#xa;//hide red-1&#xa;hide vw7Zh7kLF-1Z5-S5F4tT-17&#xa;// input-arrows off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-4&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-3&#xa;// arrows to cell on&#xa;show vw7Zh7kLF-1Z5-S5F4tT-11 fade&#xa;show vw7Zh7kLF-1Z5-S5F4tT-9 fade&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-11&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-9&#xa;wait 1000&#xa;// arrows to cell off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-11&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-9&#xa;// output arrow on&#xa;show vw7Zh7kLF-1Z5-S5F4tT-15 fade&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-15&#xa;wait 1000&#xa;// show output&#xa;show vw7Zh7kLF-1Z5-S5F4tT-14 fade&#xa;wait 1000&#xa;// output arrow off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-15&#xa;wait 1000&#xa;&#xa;// show red-2&#xa;show vw7Zh7kLF-1Z5-S5F4tT-18 fade&#xa;wait 1500&#xa;// time arrow on&#xa;show vw7Zh7kLF-1Z5-S5F4tT-13 fade&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-13&#xa;// input arrow on&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-3&#xa;wait 1000&#xa;// hide red-2&#xa;hide vw7Zh7kLF-1Z5-S5F4tT-18&#xa;// time arrow off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-13&#xa;// input arrow off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-3&#xa;// arrows to cell on&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-11&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-9&#xa;wait 1000&#xa;// arrows to cell off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-11&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-9&#xa;// output arrow on&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-15&#xa;wait 1000&#xa;// output arrow off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-15&#xa;wait 1000&#xa;&#xa;// show red-3&#xa;show vw7Zh7kLF-1Z5-S5F4tT-19 fade&#xa;wait 1500&#xa;// time arrow on&#xa;show vw7Zh7kLF-1Z5-S5F4tT-13 fade&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-13&#xa;// input arrow on&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-3&#xa;wait 1000&#xa;// hide red-3&#xa;hide vw7Zh7kLF-1Z5-S5F4tT-19&#xa;// time arrow off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-13&#xa;// input arrow off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-3&#xa;// arrows to cell on&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-11&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-9&#xa;wait 1000&#xa;// arrows to cell off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-11&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-9&#xa;// output arrow on&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-15&#xa;wait 1000&#xa;// output arrow off&#xa;flow vw7Zh7kLF-1Z5-S5F4tT-15&#xa;&#xa;// final output arrow on&#xa;show hkOxSQr3yMlM0txb1p_M-1 fade&#xa;flow hkOxSQr3yMlM0txb1p_M-1&#xa;wait 1000&#xa;// final output&#xa;show vw7Zh7kLF-1Z5-S5F4tT-6 fade&#xa;wait 1000&#xa;// final output arrow off&#xa;flow hkOxSQr3yMlM0txb1p_M-1&#xa;wait 1000&#xa;" id="0">
+          <mxCell />
+        </UserObject>
+        <mxCell id="1" parent="0" />
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;&lt;b&gt;SimpleRNN&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="170" y="535" width="460" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="vw7Zh7kLF-1Z5-S5F4tT-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#BFBFBF;" parent="1" source="vw7Zh7kLF-1Z5-S5F4tT-5" target="vw7Zh7kLF-1Z5-S5F4tT-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-5" value="&lt;div&gt;h&lt;sub&gt;0&lt;/sub&gt;&lt;sup&gt;(1)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;h&lt;sub&gt;0&lt;/sub&gt;&lt;sup&gt;(2)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;h&lt;sub&gt;0&lt;/sub&gt;&lt;sup&gt;(3)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;h&lt;sub&gt;0&lt;/sub&gt;&lt;sup&gt;(n)&lt;/sup&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="25" y="420" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-6" value="&lt;div&gt;h&lt;sub&gt;T&lt;/sub&gt;&lt;sup&gt;(1)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;h&lt;sub&gt;T&lt;/sub&gt;&lt;sup&gt;(2)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;h&lt;sub&gt;T&lt;/sub&gt;&lt;sup&gt;(3)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;h&lt;sub&gt;T&lt;/sub&gt;&lt;sup&gt;(n)&lt;/sup&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="690" y="631.44" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-7" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="215" y="569.47" width="370" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-8" value="SimpleRNNCell" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1" parent="vw7Zh7kLF-1Z5-S5F4tT-7" vertex="1">
+          <mxGeometry x="145.6875" y="102.89473684210526" width="97.125" height="58.1578947368421" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1" parent="vw7Zh7kLF-1Z5-S5F4tT-7" source="vw7Zh7kLF-1Z5-S5F4tT-10" target="vw7Zh7kLF-1Z5-S5F4tT-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-10" value="&lt;div&gt;X&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;(1)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;X&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;(2)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;X&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;(3)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;X&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;(n)&lt;/sup&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="vw7Zh7kLF-1Z5-S5F4tT-7" vertex="1">
+          <mxGeometry y="147.6315789473684" width="74" height="107.36842105263158" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1" parent="vw7Zh7kLF-1Z5-S5F4tT-7" source="vw7Zh7kLF-1Z5-S5F4tT-12" target="vw7Zh7kLF-1Z5-S5F4tT-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="194.25" y="53.68421052631579" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-12" value="&lt;div&gt;h&lt;sub&gt;t-1&lt;/sub&gt;&lt;sup&gt;(1)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;h&lt;sub&gt;t-1&lt;/sub&gt;&lt;sup&gt;(2)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;h&lt;sub&gt;t-1&lt;/sub&gt;&lt;sup&gt;(3)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;h&lt;sub&gt;t-1&lt;/sub&gt;&lt;sup&gt;(n)&lt;/sup&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="vw7Zh7kLF-1Z5-S5F4tT-7" vertex="1">
+          <mxGeometry width="74" height="107.36842105263158" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="vw7Zh7kLF-1Z5-S5F4tT-7" source="vw7Zh7kLF-1Z5-S5F4tT-14" target="vw7Zh7kLF-1Z5-S5F4tT-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="333" y="27" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-14" value="&lt;div&gt;h&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;(1)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;h&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;(2)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;&lt;div&gt;h&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;(3)&lt;/sup&gt;,&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;h&lt;sub&gt;t&lt;/sub&gt;&lt;sup&gt;(n)&lt;/sup&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="vw7Zh7kLF-1Z5-S5F4tT-7" vertex="1">
+          <mxGeometry x="296" y="78.28947368421052" width="74" height="107.36842105263158" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1" parent="vw7Zh7kLF-1Z5-S5F4tT-7" source="vw7Zh7kLF-1Z5-S5F4tT-8" target="vw7Zh7kLF-1Z5-S5F4tT-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-16" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;[X&lt;sub style=&quot;font-size: 11px;&quot;&gt;1&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(1)&lt;/sup&gt;, X&lt;sub style=&quot;font-size: 11px;&quot;&gt;2&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(1)&lt;/sup&gt;, ... , X&lt;sub style=&quot;font-size: 11px;&quot;&gt;T&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(1)&lt;/sup&gt;],&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;[X&lt;sub style=&quot;font-size: 11px;&quot;&gt;1&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(2)&lt;/sup&gt;, X&lt;sub style=&quot;font-size: 11px;&quot;&gt;2&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(2)&lt;/sup&gt;, ... , X&lt;sub style=&quot;font-size: 11px;&quot;&gt;T&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(2)&lt;/sup&gt;]&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;[X&lt;sub style=&quot;font-size: 11px;&quot;&gt;1&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(3)&lt;/sup&gt;, X&lt;sub style=&quot;font-size: 11px;&quot;&gt;2&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(3)&lt;/sup&gt;, ... , X&lt;sub style=&quot;font-size: 11px;&quot;&gt;T&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(3)&lt;/sup&gt;]&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;[X&lt;sub style=&quot;font-size: 11px;&quot;&gt;1&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(n)&lt;/sup&gt;, X&lt;sub style=&quot;font-size: 11px;&quot;&gt;2&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(n)&lt;/sup&gt;, ... , X&lt;sub style=&quot;font-size: 11px;&quot;&gt;T&lt;/sub&gt;&lt;sup style=&quot;font-size: 11px;&quot;&gt;(n)&lt;/sup&gt;]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;fontStyle=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry y="844.99" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-17" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;rotation=90;strokeColor=#ff0000;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="-36.57" y="903.44" width="120" height="33.12" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-18" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;rotation=90;strokeColor=#ff0000;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="13.43" y="903.44" width="120" height="33.12" as="geometry" />
+        </mxCell>
+        <mxCell id="vw7Zh7kLF-1Z5-S5F4tT-19" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;rotation=90;strokeColor=#ff0000;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="93.43" y="903.44" width="120" height="33.12" as="geometry" />
+        </mxCell>
+        <mxCell id="hkOxSQr3yMlM0txb1p_M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vw7Zh7kLF-1Z5-S5F4tT-14" target="vw7Zh7kLF-1Z5-S5F4tT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
